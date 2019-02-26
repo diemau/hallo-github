@@ -56,6 +56,7 @@ Hinweis: Du kannst auf deinen GitHub-Account verlinken, in dem du passende Markd
  - [climbo](https://github.com/climbo) Buenos días!
  - [ipa-fke-fs](https://github.com/ipa-fke-fs) Viele Grüße!
  - [fr0styAT](https://github.com/fr0styAT) Danke für den Kurs auf Udemy :) Lg aus Wien
-- .[LittleRobby](https://github.com//LittleRobby) Gruesse aus Münster
--  [PatrickKranig](https://patrickkranig.github.io/About-Me/) Grüße aus Thüringen, mach weiter so!
+ - [LittleRobby](https://github.com//LittleRobby) Gruesse aus Münster
+ - [PatrickKranig](https://patrickkranig.github.io/About-Me/) Grüße aus Thüringen, mach weiter so!
  - [diemau] (https://github.com/diemau) hallo :)
+ - [360HOCH3] (https://github.com/360HOCH3) Grüße aus dem Westerwald
